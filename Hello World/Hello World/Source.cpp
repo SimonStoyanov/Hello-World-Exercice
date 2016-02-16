@@ -9,7 +9,7 @@ int main()
 
 	printf("Hello World -> Arnau Junoy\n");
 	
-	printf("Hello World -> Francesc RiPolla\n");
+	printf("Hello World -> Francesc Ripoll\n");
 
 	system("pause");
 	return 0;
