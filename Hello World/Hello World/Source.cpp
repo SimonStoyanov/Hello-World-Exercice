@@ -3,9 +3,9 @@
 
 int main()
 {
-	printf("Hello World -> Simon Gayanov\n");
+	printf("Hello World -> Simon Stoyanov\n");
 
-	printf("Hello World -> Guillem Sunyer\n");
+	printf("Hello World -> Guillem Suplapollesnyer\n");
 
 	system("pause");
 	return 0;
