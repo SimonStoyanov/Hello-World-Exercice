@@ -3,7 +3,7 @@
 
 int main()
 {
-	printf("Hello World -> Simon Rabonov\n");
+	printf("Hello World -> Simon Stoyanov\n");
 
 	printf("Hello World -> Guillem Sunyer\n");
 
